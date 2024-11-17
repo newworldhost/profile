@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ... dont worry about the final destination worry about the journey to get there.
 
 <!---
-newworldhost/newworldhost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+newworldhost/profile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
